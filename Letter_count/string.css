@@ -1,0 +1,36 @@
+*{
+    background-color: rgb(230, 204, 204);
+}
+.Length{
+    margin: 10%;
+    text-align: center;
+}
+
+.Length button{
+    cursor: pointer;
+}
+
+.iframe-container{
+    position: sticky;
+    width: 100%;
+    padding-bottom: 56.25%; 
+    height: 0;
+  }
+  .iframe-container iframe{
+    position:absolute;
+    margin-left: 38%;
+    margin-top: 20%;
+    top:0;
+    left: 0;
+    width: 24%;
+    height: 24%;
+  }
+
+
+
+#demo1{
+    margin-top:10%;
+    margin-left:35%;
+}
+
+
